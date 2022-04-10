@@ -170,9 +170,9 @@ The multiple-line graph shows the total fares for each week by city type.
 First of all, we notice that urban cities, as expected, have the greater total fares per week
 among the three types of cities. From January to April, the amount is, on average, over 
 $2000 except in some weeks in January, march and start to decline at the end of 
-April. The total fare for suburban cities per week from January to April varies between
+April. The total fares for suburban cities per week from January to April varies between
 $750 and $1500. It drops to a lowest amount at the beginning of January, in the middle
-of April and significantly at the end april. The total fare per week for rural cities is 
+of April and significantly at the end of april. The total fares per week for rural cities is 
 the lowest among the city types. The amount rarely reaches $500 and has the lowest amount 
 in the first week of January.
 
@@ -184,5 +184,6 @@ Also, each city type reaches its highest total around the third week in February
 
 PyBer can use the result of those analyses to improve their services to each type of city by
 deciding which cities need more driver support, which ones are generating the most money
-and which need more driver support.
+and which need more driver support. Also, using the Multiple-line chart, they can figure out 
+which months of the year are more profitable for each type of cities.
 
