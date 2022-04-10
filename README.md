@@ -108,9 +108,6 @@ and rural cities.
 The Box-and-Whisker Plots for Ride Count Data let us visualize the summary statistics for the 
 number of rides per city type and determine if there are any outliers.
 
-The box-and-whisker plot has all three individual box-and-whisker plots with the 
-city type on the x-axis.
-
 ![box_and-whisker_ride](https://github.com/valerielnd/PyBer_Analysis/blob/main/Analysis/box_ride.png)
 
 There is one outlier in the urban ride count data, the city of West Angela. Also, 
