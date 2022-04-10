@@ -15,9 +15,9 @@ The list of deliverables for the project is:
 	urban, suburban, and rural.
 	
 - 	To demonstrate the relevance of the data, compute summary statistics for:	
-> The total number of rides for each city type.
-> The average fares for each city type.
->The total number of drivers for each city type.
+* The total number of rides for each city type.
+*  The average fares for each city type.
+* The total number of drivers for each city type.
 
 -	Create box-and-whisker plots that visualize each of the following:
 > The number of rides for each city type.
