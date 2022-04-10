@@ -155,7 +155,7 @@ the total fares for each type of city, the average fare per ride, and the averag
 per rider for each type of city.
 
 
-![Ride_share_summary]()
+![Ride_share_summary](https://github.com/valerielnd/PyBer_Analysis/blob/main/Analysis/pyBer_df_summary.png)
 
 The table presents a concise report of the data analyzed and gives key information about
 each type of city.
